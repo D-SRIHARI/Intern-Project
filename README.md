@@ -32,9 +32,3 @@ Copy code
 ## Contributing
 
 Pull requests and contributions are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to use and modify the code for your own projects.
